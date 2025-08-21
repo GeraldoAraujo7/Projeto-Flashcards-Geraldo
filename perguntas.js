@@ -1,0 +1,10 @@
+criaCartao("Copa do Mundo", "Qual seleção venceu a Copa do Mundo de 2002?", "Brasil");
+criaCartao("Craques", "Quem é conhecido como 'Rei do Futebol'?", "Pelé");
+criaCartao("Champions League", "Qual clube tem mais títulos da Champions League?", "Real Madrid");
+criaCartao("Brasil", "Quem marcou o gol do penta em 2002?", "Ronaldo Fenômeno");
+criaCartao("Messi", "Em que país nasceu Lionel Messi?", "Argentina");
+criaCartao("Cristiano Ronaldo", "Qual o apelido famoso de Cristiano Ronaldo?", "CR7");
+criaCartao("Estádios", "Qual é o maior estádio do Brasil?", "Maracanã");
+criaCartao("História", "Qual foi a primeira Copa do Mundo da FIFA?", "1930, no Uruguai");
+criaCartao("Seleções", "Qual país tem mais títulos de Copa do Mundo?", "Brasil");
+criaCartao("Regras", "Quantos jogadores um time de futebol tem em campo?", "11 jogadores");
